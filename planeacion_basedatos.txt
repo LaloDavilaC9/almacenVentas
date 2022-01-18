@@ -1,0 +1,61 @@
+base de datos
+
+
+
+    /*/vendedores con id con llave primaria
+        salvador
+                    direccion
+                            calle, numero, colonia, codigo postal, curp
+                    telefono
+                            telefono uno, telefono2 
+
+        eduardo
+                    direccion
+                            calle, numero, colonia, codigo postal, curp
+                    telefono
+                            telefono uno, telefono2 
+        alejandro
+                    direccion
+                            calle, numero, colonia, codigo postal, curp
+                    telefono
+                            telefono uno, telefono2 
+        andrea
+                    direccion
+                            calle, numero, colonia, codigo postal, curp
+                    telefono
+                            telefono uno, telefono2 
+        fernanda
+                    direccion
+                            calle, numero, colonia, codigo postal, curp
+                    telefono
+                            telefono uno, telefono2 
+
+
+
+    /*/productos con id con llave primaria
+
+        paquete 1
+        
+            computadora completa 1
+            cajon 1
+            lector 1
+            impresora 1
+
+        paquete 2 
+        
+            computadora completa 1
+            cajon 1
+            lector 0
+            impresora 1
+
+
+        
+
+
+
+    /*/vendedores-productos
+        id_vendedor (llave secundaria)
+        id_producto (llave secundaria)
+        cantidad de productos 
+
+
