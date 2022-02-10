@@ -8,12 +8,14 @@
     <title>Document</title>
 </head>
 <body>
+
 <?php
 
       include("metodos.php");
       conectar();
       menu();
-      mostrar();
+      mostrarBorrar();
 ?>
+    
 </body>
 </html>

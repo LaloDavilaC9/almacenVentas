@@ -15,8 +15,8 @@
       include("metodos.php");
       conectar();
       menu();
+      mostrar();
 ?>
-
 
 
 

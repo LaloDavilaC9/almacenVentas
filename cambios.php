@@ -8,12 +8,12 @@
     <title>Document</title>
 </head>
 <body>
+    
 <?php
-
-      include("metodos.php");
-      conectar();
-      menu();
-      mostrar();
+include("metodos.php");
+menu();
+mostrarModificar();
 ?>
+
 </body>
 </html>
